@@ -1,2 +1,3 @@
 # kjemi1
-Undervsiningsmateriell til faget Kjemi 1 i norsk VGS
+Undervisningsmateriell til faget Kjemi 1 i norsk VGS.
+Alt materiale her er til fri benyttelse for hvem som helst.
