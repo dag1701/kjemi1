@@ -1,1 +1,4 @@
 chemlib
+numpy
+matplotlib
+phcalc
